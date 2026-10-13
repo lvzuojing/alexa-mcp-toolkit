@@ -1,0 +1,4 @@
+# Self-hosted MCP server for the Amazon Alexa+ track.
+# Pinned for reproducibility (pydantic 2.10+ removed an API mcp 1.9.4 uses).
+mcp==1.9.4
+pydantic==2.9.2

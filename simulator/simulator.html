@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Alexa+ Simulation · McDonald's MCP Toolkit</title>
+<style>
+  :root{
+    --bg:#0b1020; --panel:#121a30; --panel2:#1a2440; --line:#27324f;
+    --txt:#e8eefc; --muted:#93a1c4; --accent:#36e0c8; --alexa:#7c5cff;
+    --user:#1f6feb; --good:#36e0c8; --warn:#ffb454;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"PingFang SC","Microsoft YaHei",sans-serif;
+    background:radial-gradient(1200px 600px at 70% -10%,#16224a 0%,var(--bg) 55%);color:var(--txt);min-height:100vh}
+  .wrap{max-width:820px;margin:0 auto;padding:28px 18px 60px}
+  header{display:flex;align-items:center;gap:14px;margin-bottom:6px}
+  .logo{width:46px;height:46px;border-radius:50%;background:linear-gradient(135deg,var(--alexa),var(--accent));
+    display:flex;align-items:center;justify-content:center;font-size:22px;box-shadow:0 0 24px rgba(124,92,255,.5)}
+  h1{font-size:20px;margin:0}
+  .sub{color:var(--muted);font-size:13px;margin-top:2px}
+  .card{background:var(--panel);border:1px solid var(--line);border-radius:16px;padding:16px;margin-top:18px}
+  .chips{display:flex;flex-wrap:wrap;gap:8px;margin-top:10px}
+  .chip{background:var(--panel2);border:1px solid var(--line);color:var(--txt);padding:7px 12px;border-radius:999px;
+    font-size:13px;cursor:pointer;transition:.15s}
+  .chip:hover{border-color:var(--accent);color:var(--accent)}
+  .chat{display:flex;flex-direction:column;gap:14px;margin-top:6px}
+  .row{display:flex;gap:10px;align-items:flex-end}
+  .row.user{flex-direction:row-reverse}
+  .ava{width:34px;height:34px;border-radius:50%;flex:0 0 34px;display:flex;align-items:center;justify-content:center;font-size:16px}
+  .ava.a{background:linear-gradient(135deg,var(--alexa),var(--accent))}
+  .ava.u{background:#27406e}
+  .bubble{max-width:74%;padding:11px 14px;border-radius:14px;font-size:14.5px;line-height:1.5;white-space:pre-wrap;word-break:break-word}
+  .row.user .bubble{background:var(--user);border-bottom-right-radius:4px}
+  .row.alexa .bubble{background:var(--panel2);border:1px solid var(--line);border-bottom-left-radius:4px}
+  .tool{margin-top:8px;font-size:12px;color:var(--muted);border-top:1px dashed var(--line);padding-top:8px}
+  .tool b{color:var(--accent)}
+  .typing{font-size:13px;color:var(--muted);padding:6px 4px}
+  .dot{display:inline-block;width:6px;height:6px;border-radius:50%;background:var(--muted);margin:0 1px;animation:bl 1s infinite}
+  .dot:nth-child(2){animation-delay:.15s}.dot:nth-child(3){animation-delay:.3s}
+  @keyframes bl{0%,60%,100%{opacity:.3}30%{opacity:1}}
+  .inputbar{display:flex;gap:10px;margin-top:16px}
+  input{flex:1;background:var(--panel2);border:1px solid var(--line);color:var(--txt);border-radius:12px;padding:13px 14px;font-size:15px;outline:none}
+  input:focus{border-color:var(--accent)}
+  button.send{background:linear-gradient(135deg,var(--alexa),var(--accent));border:0;color:#06101f;font-weight:700;
+    padding:0 20px;border-radius:12px;cursor:pointer;font-size:15px}
+  button.send:disabled{opacity:.5;cursor:not-allowed}
+  .foot{color:var(--muted);font-size:12px;margin-top:18px;text-align:center;line-height:1.6}
+  code{background:#0c1730;padding:2px 6px;border-radius:6px;color:var(--good);font-size:12px}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="logo">🔊</div>
+    <div>
+      <h1>Alexa+ 模拟器</h1>
+      <div class="sub">自托管 MCP Server 演示 · 无需实体 Echo · 语音指令 → 工具调用 → 结果</div>
+    </div>
+  </header>
+
+  <div class="card">
+    <div style="font-size:13px;color:var(--muted)">想对 Alexa 说什么？（点击示例或自己输入）</div>
+    <div class="chips" id="chips"></div>
+    <div class="chat" id="chat"></div>
+    <div class="inputbar">
+      <input id="inp" placeholder="例如：麦当劳积分抽奖值不值得玩？" autocomplete="off" />
+      <button class="send" id="send">发送</button>
+    </div>
+  </div>
+
+  <div class="foot">
+    后端：<code>simulator.py</code>（伪装 Alexa+ 大脑） → 通过 Streamable HTTP 调用本地 <code>server.py</code>（MCP Server）<br/>
+    这是 Amazon Build,Ship,Shape · Alexa+ 赛道的「无 Echo」演示方案。
+  </div>
+</div>
+
+<script>
+const EXAMPLES = [
+  "麦当劳积分抽奖值不值得玩？",
+  "薯条有多少卡路里？",
+  "现在有什么优惠券可以领？",
+  "最近有什么营销活动？",
+  "积分商城里有什么可以兑换？",
+  "抽5次的话期望怎么样？"
+];
+const chips = document.getElementById('chips');
+EXAMPLES.forEach(t=>{
+  const c=document.createElement('div'); c.className='chip'; c.textContent=t;
+  c.onclick=()=>{document.getElementById('inp').value=t; send();};
+  chips.appendChild(c);
+});
+
+const chat=document.getElementById('chat');
+const inp=document.getElementById('inp');
+const sendBtn=document.getElementById('send');
+
+function addBubble(who,text,toolHtml){
+  const row=document.createElement('div'); row.className='row '+who;
+  const ava=document.createElement('div'); ava.className='ava '+(who==='user'?'u':'a'); ava.textContent=who==='user'?'🧑':'🔊';
+  const b=document.createElement('div'); b.className='bubble'; b.textContent=text;
+  row.appendChild(ava); row.appendChild(b);
+  if(toolHtml){ b.innerHTML += toolHtml; }
+  chat.appendChild(row);
+  chat.scrollTop=chat.scrollHeight;
+}
+function typing(){
+  const row=document.createElement('div'); row.className='row alexa'; row.id='typing';
+  row.innerHTML='<div class="ava a">🔊</div><div class="bubble typing"><span class="dot"></span><span class="dot"></span><span class="dot"></span></div>';
+  chat.appendChild(row); chat.scrollTop=chat.scrollHeight;
+}
+
+async function send(){
+  const text=inp.value.trim(); if(!text) return;
+  inp.value=''; sendBtn.disabled=true;
+  addBubble('user',text);
+  typing();
+  try{
+    const r=await fetch('/ask',{method:'POST',headers:{'Content-Type':'application/json'},
+      body:JSON.stringify({text})});
+    const d=await r.json();
+    document.getElementById('typing').remove();
+    const toolHtml=`<div class="tool">⚙️ 调用工具 <b>${d.tool}</b> · 参数 ${JSON.stringify(d.args)}</div>`;
+    addBubble('alexa', d.spoken, toolHtml);
+  }catch(e){
+    document.getElementById('typing').remove();
+    addBubble('alexa','出错了：'+e);
+  }finally{ sendBtn.disabled=false; }
+}
+sendBtn.onclick=send;
+inp.addEventListener('keydown',e=>{ if(e.key==='Enter') send(); });
+</script>
+</body>
+</html>

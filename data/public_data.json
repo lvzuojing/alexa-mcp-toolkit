@@ -1,0 +1,1019 @@
+{
+  "generated_at": "2026-10-09 18:11:48",
+  "source": "mcp-public",
+  "nutrition_kcal": {
+    "猪柳麦满分": 308.0,
+    "猪柳蛋麦满分": 387.0,
+    "烟肉蛋麦满分": 260.0,
+    "火腿扒麦满分": 261.0,
+    "中薯条": 289.0,
+    "大薯条": 379.0,
+    "小薯条": 210.0,
+    "迷你薯条": 106.0,
+    "圆筒冰淇淋": 93.0,
+    "麦乐鸡5块": 213.0,
+    "大杯玉米杯": 87.0,
+    "小杯玉米杯": 53.0,
+    "麦辣鸡翅-2块": 224.0,
+    "朱古力新地": 282.0,
+    "草莓新地": 245.0,
+    "奥利奥麦旋风": 266.0,
+    "草莓麦旋风": 295.0,
+    "香芋派": 232.0,
+    "菠萝派": 221.0,
+    "大脆鸡扒麦满分": 361.0,
+    "原味板烧鸡腿麦满分": 246.0,
+    "双层原味板烧鸡腿麦满分": 355.0,
+    "吉士汉堡包": 294.0,
+    "双层吉士汉堡": 429.0,
+    "麦香鸡": 369.0,
+    "麦香鱼": 325.0,
+    "麦辣鸡腿汉堡": 485.0,
+    "板烧鸡腿堡": 391.0,
+    "巨无霸": 513.0,
+    "培根蔬萃双层牛堡": 442.0,
+    "可乐中杯": 147.0,
+    "可乐大杯": 224.0,
+    "可乐小杯": 107.0,
+    "雪碧中杯": 105.0,
+    "雪碧大杯": 160.0,
+    "雪碧小杯": 76.0,
+    "无糖可口可乐中杯": 0.0,
+    "无糖可口可乐大杯": 0.0,
+    "无糖可口可乐小杯": 0.0,
+    "大杯鲜萃咖啡": 13.0,
+    "小杯鲜萃咖啡": 15.0,
+    "锡兰红茶": 2.0,
+    "热朱古力": 125.0,
+    "纯牛奶（盒装）": 129.0,
+    "麦旋酷阳光橙": 228.0,
+    "浓缩咖啡": 13.0,
+    "那么大鸡排": 385.0,
+    "阳光柠檬红茶中杯": 117.0,
+    "阳光柠檬红茶大杯": 178.0,
+    "阳光柠檬红茶小杯": 85.0,
+    "脆薯饼": 146.0,
+    "脆香油条": 202.0,
+    "100%苹果汁": 88.0,
+    "汉堡包": 248.0,
+    "麦乐鸡4块": 170.0,
+    "纯悦": 0.0,
+    "苹果片": 32.0,
+    "不素之霸双层牛堡": 493.0,
+    "双层深海鳕鱼堡": 485.0,
+    "儿童鱼排堡": 269.0,
+    "培根安格斯厚牛堡": 707.0,
+    "芝士安格斯厚牛堡": 696.0,
+    "yeyeyeye奶冻款": 223.0,
+    "皮蛋鸡肉粥": 133.0,
+    "雪菜脆笋鸡肉粥": 120.0,
+    "猪柳炒双蛋堡": 437.0,
+    "yeyeyeye爆珠款": 212.0,
+    "柠檬拉明顿": 121.0,
+    "芝士双层安格斯厚牛堡": 1003.0,
+    "培根双层安格斯厚牛堡": 987.0,
+    "火腿扒早安营养卷": 444.0,
+    "麦麦脆汁鸡-琵琶腿": 328.0,
+    "德式图林根香肠": 87.0,
+    "图林根香肠早安营养卷": 425.0,
+    "麦麦脆汁鸡-带骨里脊": 332.0,
+    "【美汁源】“黄金橙橙”": 165.0,
+    "优品豆浆大杯": 202.0,
+    "优品豆浆小杯": 151.0,
+    "浓浓黑巧雪冰中杯": 359.0,
+    "浓浓黑巧雪冰大杯": 444.0,
+    "特浓奶香雪冰中杯": 269.0,
+    "特浓奶香雪冰大杯": 309.0,
+    "浓浓抹茶雪冰中杯": 289.0,
+    "浓浓抹茶雪冰大杯": 339.0,
+    "热牛奶中杯": 176.0,
+    "热牛奶大杯": 240.0,
+    "热牛奶小杯": 147.0,
+    "冰牛奶中杯": 224.0,
+    "冰牛奶大杯": 269.0,
+    "冰牛奶小杯": 147.0,
+    "冰奶铁中杯": 148.0,
+    "冰奶铁大杯": 162.0,
+    "冰奶铁小杯": 86.0,
+    "热奶铁中杯": 186.0,
+    "热奶铁大杯": 249.0,
+    "热奶铁小杯": 134.0,
+    "冰燕麦奶铁中杯": 132.0,
+    "冰燕麦奶铁大杯": 145.0,
+    "冰燕麦奶铁小杯": 77.0,
+    "热燕麦奶铁中杯": 167.0,
+    "热燕麦奶铁大杯": 222.0,
+    "热燕麦奶铁小杯": 120.0,
+    "冰美式中杯": 13.0,
+    "冰美式大杯": 14.0,
+    "冰美式小杯": 10.0,
+    "热美式中杯": 13.0,
+    "热美式大杯": 14.0,
+    "热美式小杯": 10.0,
+    "冰焦糖玛奇朵": 148.0,
+    "热焦糖玛奇朵": 167.0,
+    "卡布奇诺中杯": 167.0,
+    "卡布奇诺大杯": 223.0,
+    "冰浓浓燕麦黑巧中杯": 120.0,
+    "冰浓浓燕麦黑巧大杯": 131.0,
+    "冰燕麦奶中杯": 199.0,
+    "冰燕麦奶大杯": 239.0,
+    "冰燕麦奶小杯": 131.0,
+    "热燕麦奶中杯": 157.0,
+    "热燕麦奶大杯": 213.0,
+    "热燕麦奶小杯": 131.0,
+    "冰浓浓抹茶牛奶中杯": 196.0,
+    "冰浓浓抹茶牛奶大杯": 240.0,
+    "热浓浓抹茶牛奶中杯": 238.0,
+    "热浓浓抹茶牛奶大杯": 333.0,
+    "冰浓浓黑巧中杯": 135.0,
+    "冰浓浓黑巧大杯": 147.0,
+    "热浓浓黑巧中杯": 176.0,
+    "热浓浓黑巧大杯": 240.0,
+    "川宁伯爵红茶": 2.0,
+    "抹茶阿芙佳朵": 147.0,
+    "咖啡阿芙佳朵": 139.0,
+    "热浓浓燕麦黑巧中杯": 157.0,
+    "热浓浓燕麦黑巧大杯": 213.0,
+    "草莓拉明顿": 121.0,
+    "原味板烧鸡腿炒双蛋堡": 419.0,
+    "双层猪柳蛋麦满分": 513.0,
+    "双层火腿扒麦满分": 385.0,
+    "脆脆薯条": 279.0,
+    "麦麦趣鸡球": 266.0,
+    "酥酥多笋卷": 342.0,
+    "薄皮焦香V翅": 192.0,
+    "蜜汁BBQ风味薄皮脆汁鸡-带骨里脊": 152.0,
+    "蜜汁BBQ风味薄皮脆汁鸡-琵琶腿": 173.0,
+    "果然多肉": 478.0,
+    "“苹板”支撑Pro": 476.0,
+    "专“薯鱼”你": 463.0,
+    "绝代双翅": 469.0,
+    "牛气满满": 495.0,
+    "蜜汁快乐": 258.0,
+    "迷你朱古力新地": 140.0,
+    "迷你草莓新地": 122.0,
+    "鲜蔬蛋沙拉叠叠卷": 266.0,
+    "鸡肉蛋沙拉叠叠卷": 387.0,
+    "中杯怡泉+C": 110.0,
+    "大杯怡泉+C": 168.0,
+    "蒜了吧黄油风味薄皮脆汁鸡-琵琶腿": 164.0,
+    "蒜了吧黄油风味薄皮脆汁鸡-带骨里脊": 126.0,
+    "柠萌风味薄皮焦香V翅": 204.0
+  },
+  "campaigns": [
+    {
+      "date": "2026-10-7",
+      "tag": "往期回顾",
+      "title": "超值𝟗.𝟗元早餐两件套陪你开工啦😋",
+      "body": "早八的快乐，一堡一咖已就位🍔☕ 𝟏𝟎月𝟖日至𝟏𝟎月𝟐𝟏日 🍔周一至周五早餐堡轮流上早班 🤩今天这堡 明天那堡 ☕鲜萃咖啡搭档到位 凭券两件套只要9.9元 速戳👇快定好闹钟一起来吃 <img src=\"https://cms-cdn.mcd.cn/img/short-content/553a0a73cd1eacee7212515b7b071b90.jpg\" alt=\"\" height=\"300\" width=\"auto\">",
+      "image": ""
+    },
+    {
+      "date": "2026-10-8",
+      "tag": "往期回顾",
+      "title": "麦当劳 X PEACEMINUSONE",
+      "body": "GD同款联名复古棒球帽 任意餐品消费加39.9元即可得 经典红黄配色搭配复古轮廓，MV同款灵感重现 更有标志性小雏菊刺绣图案点缀 10月8日10:45开售 更有APP专享积分抢先购10:40开抢 与GD一起探索潮流新篇章🖤 <img src=\"https://cms-cdn.mcd.cn/img/short-content/689d30bef705f848fe1fd3cfc0f419b2.jpg\" alt=\"\" height=\"300\" width=\"auto\">",
+      "image": ""
+    },
+    {
+      "date": "2026-10-8",
+      "tag": "往期回顾",
+      "title": "麦咖啡一早现磨🥳元气早餐震撼来袭！",
+      "body": "☕甄选 2024IIAC 国际咖啡品鉴大赛“金奖“咖啡豆 🥪多款人气早餐主食随心挑选，满足你的多种需求 ✨清晨能量一键配齐，14.9元起，开启你的元气一天 <img src=\"https://cms-cdn.mcd.cn/img/short-content/0c9f4ae90aa1481bd5275588a0456869.jpg\" alt=\"\" height=\"300\" width=\"auto\">",
+      "image": ""
+    },
+    {
+      "date": "2026-10-9",
+      "tag": "今日",
+      "title": "韩式风味蘸酱上新❤️就「酱」心有所「薯」",
+      "body": "🆕韩式辣椒黄油风味酱 韩式辣酱碰撞青梅，裹挟黄油香气 鸡薯双全盒仅需15.9元起✨getGD同款花式比心 🆕韩式烟熏芝士风味酱 浓郁芝香邂逅韩式香辛风味，烟熏香气层层释放 蘸酱炸鸡仅需11.9元起🍗 炸鸡薯饼蘸酱我全都喜欢！ 10月8日 10:30起正式开售⏰ <img src=\"https://cms-cdn.mcd.cn/img/short-content/01acad0d43f6f5c062d58eecd375e167.jpg\" alt=\"\" height=\"300\" width=\"auto\">",
+      "image": ""
+    },
+    {
+      "date": "2026-10-9",
+      "tag": "今日",
+      "title": "麦当劳 X PEACEMINUSONE",
+      "body": "GD同款联名复古棒球帽 任意餐品消费加39.9元即可得 经典红黄配色搭配复古轮廓，MV同款灵感重现 更有标志性小雏菊刺绣图案点缀 10月8日10:45开售 更有APP专享积分抢先购10:40开抢 与GD一起探索潮流新篇章🖤 <img src=\"https://cms-cdn.mcd.cn/img/short-content/689d30bef705f848fe1fd3cfc0f419b2.jpg\" alt=\"\" height=\"300\" width=\"auto\">",
+      "image": ""
+    },
+    {
+      "date": "2026-10-9",
+      "tag": "今日",
+      "title": "麦当劳联动G-DRAGON",
+      "body": "带来韩式风味系列新品❗️ 龙焰鸡腿堡三件套 26.9 元起即刻开吃🍔 韩式辣酱搭配酥脆多汁鸡腿排🤤 还可升级29.9元龙焰芝士棒鸡腿堡三件套， 两根马苏里拉拉丝芝士条，热时双倍拉丝更过瘾🧀 10月8日 10:30 准时开售⏰You lovin' it？ <img src=\"https://cms-cdn.mcd.cn/img/short-content/25809373fbf2e5f9bb9699195149b88a.jpg\" alt=\"\" height=\"300\" width=\"auto\">",
+      "image": ""
+    },
+    {
+      "date": "2026-10-9",
+      "tag": "今日",
+      "title": "🫐一口爆汁！蓝莓爆爆珠麦旋风上新",
+      "body": "🫐蓝莓爆爆珠麦旋风上新！ 💜清甜蓝莓碰上醇厚奶香，酸甜清爽。 💥真实蓝莓原浆x爆爆珠，颗颗爆汁好惊喜。 😋绵密冰淇淋撞上弹爽口感，莓好滋味层层爆开！ 还在等什么，马上尝新~ <img src=\"https://cms-cdn.mcd.cn/img/short-content/105121c86e1023b6cc4b7fb4754ca145.jpg\" alt=\"\" height=\"300\" width=\"auto\">",
+      "image": ""
+    },
+    {
+      "date": "2026-10-9",
+      "tag": "今日",
+      "title": "早餐爆款回归，快来pick你的厚松饼堡！📣",
+      "body": "返工别紧张，厚松饼堡让你松软一下🫵 🥞甜甜松饼，软软口感 🍁经典枫糖风味和浓郁巧克力味两款可选🍫 10月8日起，指定套餐可享早餐卡6折优惠 3件套到手只要15元起，快来优惠吃 <img src=\"https://cms-cdn.mcd.cn/img/short-content/76fc2955b74f7c69121d5299a0047ae1.jpg\" alt=\"\" height=\"300\" width=\"auto\">",
+      "image": ""
+    },
+    {
+      "date": "2026-10-9",
+      "tag": "今日",
+      "title": "🍫麦咖啡13.9r浓浓黑巧来啦！",
+      "body": "地道浓醇黑巧，风味浓郁醇厚 200目精细研磨工艺，触感丝滑如绒 戳下方，速来解锁！ <img src=\"https://cms-cdn.mcd.cn/img/short-content/6142c8e169c5c3a97bf90047ca446a46.jpg\" alt=\"\" height=\"300\" width=\"auto\">",
+      "image": ""
+    },
+    {
+      "date": "2026-10-9",
+      "tag": "今日",
+      "title": "麦咖啡一早现磨🥳元气早餐震撼来袭！",
+      "body": "☕甄选 2024IIAC 国际咖啡品鉴大赛“金奖“咖啡豆 🥪多款人气早餐主食随心挑选，满足你的多种需求 ✨清晨能量一键配齐，14.9元起，开启你的元气一天 <img src=\"https://cms-cdn.mcd.cn/img/short-content/0c9f4ae90aa1481bd5275588a0456869.jpg\" alt=\"\" height=\"300\" width=\"auto\">",
+      "image": ""
+    },
+    {
+      "date": "2026-10-9",
+      "tag": "今日",
+      "title": "🩶灰白撞色，灰焰圆筒酷爽登场",
+      "body": "🩶灰焰圆筒酷爽上新！ 🍦浓郁香草味碰上酷灰脆筒，灰白撞色吸睛。 ✨入口绵密丝滑，一口咬下筒壳咔嚓酥脆。 😋绵密与香脆层层交织，一口解锁甜酷反差！ 还在等什么，马上尝新~ <img src=\"https://cms-cdn.mcd.cn/img/short-content/5236ca16c841a90eadb0daf4758a2945.jpg\" alt=\"\" height=\"300\" width=\"auto\">",
+      "image": ""
+    },
+    {
+      "date": "2026-10-9",
+      "tag": "今日",
+      "title": "超值𝟗.𝟗元早餐两件套陪你开工啦😋",
+      "body": "早八的快乐，一堡一咖已就位🍔☕ 𝟏𝟎月𝟖日至𝟏𝟎月𝟐𝟏日 🍔周一至周五早餐堡轮流上早班 🤩今天这堡 明天那堡 ☕鲜萃咖啡搭档到位 凭券两件套只要9.9元 速戳👇快定好闹钟一起来吃 <img src=\"https://cms-cdn.mcd.cn/img/short-content/553a0a73cd1eacee7212515b7b071b90.jpg\" alt=\"\" height=\"300\" width=\"auto\">",
+      "image": ""
+    },
+    {
+      "date": "2026-10-9",
+      "tag": "今日",
+      "title": "学生专属！49元150天麦金学期卡💳",
+      "body": "💰仅0.33元/天，到手150天吃麦特权！ 5️⃣折起吃超值四件套、6折吃早餐 🛵每日两次满额免配，9.9元麦咖啡 🦉开卡还送多邻国月卡，美味和学习一步到位 👛新学期钱包不吃紧，开心吃麦快乐学习！ <img src=\"https://cms-cdn.mcd.cn/img/short-content/99e637e8b965cbb7895e102b5c25b0c2.png\" alt=\"\" height=\"300\" width=\"auto\">",
+      "image": ""
+    },
+    {
+      "date": "2026-10-9",
+      "tag": "今日",
+      "title": "过家家派对上线，快来一起解锁梦想职业",
+      "body": "过家家派对就要开始啦! 萌娃cosplay梦想职业，精美职业服带回家 DIY 创意手工，想象力在指尖自由绽放 9月9日到店解锁过家家派对 粉红姐姐带你玩转麦当劳，开启童趣一天~ <img src=\"https://cms-cdn.mcd.cn/img/short-content/fd3efb9e2c3a89ba6aa8dfa4676aa333.jpg\" alt=\"\" height=\"300\" width=\"auto\">",
+      "image": ""
+    },
+    {
+      "date": "2026-10-9",
+      "tag": "今日",
+      "title": "“韩”风刮到了四件套~龙焰鸡腿堡来袭！",
+      "body": "🍔麦金卡点「龙焰鸡腿堡」四件套29元起 🍗韩式辣酱碰撞青梅黄油，爆脆鸡腿排多汁裹酱！ ✨一张麦金卡包揽全天吃麦特权 6折早餐、9.9元麦咖啡、满额免配统统安排 😋快来打卡美味，这场韩式盛宴等你加入！ <img src=\"https://cms-cdn.mcd.cn/img/short-content/b6da228249fab7761748bb6e24c50f93.jpg\" alt=\"\" height=\"300\" width=\"auto\">",
+      "image": ""
+    },
+    {
+      "date": "2026-10-9",
+      "tag": "今日",
+      "title": "乐享90分钟高质量亲子时间",
+      "body": "打造高质量陪伴时光🎊 9本热门书籍且每月更新！ 更有开心乐园餐+随机玩具一份🎁 好吃又好玩！快报名参加吧~ <img src=\"https://cms-cdn.mcd.cn/img/short-content/63bd426f45860fbe26025234054bf773.png\" alt=\"\" height=\"300\" width=\"auto\">",
+      "image": ""
+    },
+    {
+      "date": "2026-10-9",
+      "tag": "今日",
+      "title": "快来一起参加麦麦派对吧！",
+      "body": "遛娃好去处🎉麦当劳趣读派对！ 6大环节，趣味互动✨ 好吃又好玩，快乐持续加倍！ 👇一起领取“读书小达人“证书吧~ <img src=\"https://cms-cdn.mcd.cn/img/short-content/39e02c45a3b5d9febaf7ac3a5d03f0b9.png\" alt=\"\" height=\"300\" width=\"auto\">",
+      "image": ""
+    },
+    {
+      "date": "2026-10-10",
+      "tag": "",
+      "title": "韩式风味蘸酱上新❤️就「酱」心有所「薯」",
+      "body": "🆕韩式辣椒黄油风味酱 韩式辣酱碰撞青梅，裹挟黄油香气 鸡薯双全盒仅需15.9元起✨getGD同款花式比心 🆕韩式烟熏芝士风味酱 浓郁芝香邂逅韩式香辛风味，烟熏香气层层释放 蘸酱炸鸡仅需11.9元起🍗 炸鸡薯饼蘸酱我全都喜欢！ 10月8日 10:30起正式开售⏰ <img src=\"https://cms-cdn.mcd.cn/img/short-content/01acad0d43f6f5c062d58eecd375e167.jpg\" alt=\"\" height=\"300\" width=\"auto\">",
+      "image": ""
+    },
+    {
+      "date": "2026-10-10",
+      "tag": "",
+      "title": "预约麦金喜抽奖，🉐[积分霸王餐]",
+      "body": "宝子😸天上不会掉馅饼 😆但麦麦会掉落免费汉堡~ 💪麦金喜抽奖吃[积分霸王餐] 🍔免费龙焰鸡腿堡/麦辣鸡腿堡 抽奖时间：10月10日 00:00开始⏰速戳预约！ <img src=\"https://cms-cdn.mcd.cn/img/short-content/5be1d91c50beb6d04cf8185055fa92a5.jpg\" alt=\"\" height=\"300\" width=\"auto\">",
+      "image": ""
+    },
+    {
+      "date": "2026-10-11",
+      "tag": "",
+      "title": "“韩”风刮到了四件套~龙焰鸡腿堡来袭！",
+      "body": "🍔麦金卡点「龙焰鸡腿堡」四件套29元起 🍗韩式辣酱碰撞青梅黄油，爆脆鸡腿排多汁裹酱！ ✨一张麦金卡包揽全天吃麦特权 6折早餐、9.9元麦咖啡、满额免配统统安排 😋快来打卡美味，这场韩式盛宴等你加入！ <img src=\"https://cms-cdn.mcd.cn/img/short-content/b6da228249fab7761748bb6e24c50f93.jpg\" alt=\"\" height=\"300\" width=\"auto\">",
+      "image": ""
+    },
+    {
+      "date": "2026-10-11",
+      "tag": "",
+      "title": "快来一起参加麦麦派对吧！",
+      "body": "遛娃好去处🎉麦当劳趣读派对！ 6大环节，趣味互动✨ 好吃又好玩，快乐持续加倍！ 👇一起领取“读书小达人“证书吧~ <img src=\"https://cms-cdn.mcd.cn/img/short-content/39e02c45a3b5d9febaf7ac3a5d03f0b9.png\" alt=\"\" height=\"300\" width=\"auto\">",
+      "image": ""
+    },
+    {
+      "date": "2026-10-12",
+      "tag": "",
+      "title": "🫐一口爆汁！蓝莓爆爆珠麦旋风上新",
+      "body": "🫐蓝莓爆爆珠麦旋风上新！ 💜清甜蓝莓碰上醇厚奶香，酸甜清爽。 💥真实蓝莓原浆x爆爆珠，颗颗爆汁好惊喜。 😋绵密冰淇淋撞上弹爽口感，莓好滋味层层爆开！ 还在等什么，马上尝新~ <img src=\"https://cms-cdn.mcd.cn/img/short-content/105121c86e1023b6cc4b7fb4754ca145.jpg\" alt=\"\" height=\"300\" width=\"auto\">",
+      "image": ""
+    },
+    {
+      "date": "2026-10-12",
+      "tag": "",
+      "title": "乐享90分钟高质量亲子时间",
+      "body": "打造高质量陪伴时光🎊 9本热门书籍且每月更新！ 更有开心乐园餐+随机玩具一份🎁 好吃又好玩！快报名参加吧~ <img src=\"https://cms-cdn.mcd.cn/img/short-content/63bd426f45860fbe26025234054bf773.png\" alt=\"\" height=\"300\" width=\"auto\">",
+      "image": ""
+    },
+    {
+      "date": "2026-10-13",
+      "tag": "",
+      "title": "早餐爆款回归，快来pick你的厚松饼堡！📣",
+      "body": "返工别紧张，厚松饼堡让你松软一下🫵 🥞甜甜松饼，软软口感 🍁经典枫糖风味和浓郁巧克力味两款可选🍫 10月8日起，指定套餐可享早餐卡6折优惠 3件套到手只要15元起，快来优惠吃 <img src=\"https://cms-cdn.mcd.cn/img/short-content/76fc2955b74f7c69121d5299a0047ae1.jpg\" alt=\"\" height=\"300\" width=\"auto\">",
+      "image": ""
+    },
+    {
+      "date": "2026-10-14",
+      "tag": "",
+      "title": "🍫麦咖啡13.9r浓浓黑巧来啦！",
+      "body": "地道浓醇黑巧，风味浓郁醇厚 200目精细研磨工艺，触感丝滑如绒 戳下方，速来解锁！ <img src=\"https://cms-cdn.mcd.cn/img/short-content/6142c8e169c5c3a97bf90047ca446a46.jpg\" alt=\"\" height=\"300\" width=\"auto\">",
+      "image": ""
+    },
+    {
+      "date": "2026-10-15",
+      "tag": "",
+      "title": "麦当劳 X PEACEMINUSONE",
+      "body": "周边第二弹——联名徽章即将发售 任意餐品消费加39.9元即可得 集结MCD爱心、小雏菊和经典薯条元素🍟 一套三枚🖤限量珍藏 10月15日10:45开售 更有APP专享积分抢先购10:40开抢 <img src=\"https://cms-cdn.mcd.cn/img/short-content/3120858b8460868281cdc39f9aae1578.jpg\" alt=\"\" height=\"300\" width=\"auto\">",
+      "image": ""
+    },
+    {
+      "date": "2026-10-18",
+      "tag": "",
+      "title": "学生专属！49元150天麦金学期卡💳",
+      "body": "💰仅0.33元/天，到手150天吃麦特权！ 5️⃣折起吃超值四件套、6折吃早餐 🛵每日两次满额免配，9.9元麦咖啡 🦉开卡还送多邻国月卡，美味和学习一步到位 👛新学期钱包不吃紧，开心吃麦快乐学习！ <img src=\"https://cms-cdn.mcd.cn/img/short-content/99e637e8b965cbb7895e102b5c25b0c2.png\" alt=\"\" height=\"300\" width=\"auto\">",
+      "image": ""
+    },
+    {
+      "date": "2026-10-22",
+      "tag": "",
+      "title": "第三周周边即将开售✨限定主题丝巾！",
+      "body": "丝巾搭配棒球帽的潮流谁懂😎 麦当劳「我就喜欢」限定丝巾 任意餐品消费加 39.9 元即可得 颈间、包袋、手腕、头饰一巾多玩🤔 叠搭联名棒球帽&徽章随心玩出专属潮流造型✨ 10月22日10:45开售 更有APP专享积分抢先购10:40开抢 get时尚icon同款潮流造型 <img src=\"https://cms-cdn.mcd.cn/img/short-content/fb40c37c172886ee1235c2ed21f3bde4.jpg\" alt=\"\" height=\"300\" width=\"auto\">",
+      "image": ""
+    },
+    {
+      "date": "2026-10-23",
+      "tag": "",
+      "title": "🩶灰白撞色，灰焰圆筒酷爽登场",
+      "body": "🩶灰焰圆筒酷爽上新！ 🍦浓郁香草味碰上酷灰脆筒，灰白撞色吸睛。 ✨入口绵密丝滑，一口咬下筒壳咔嚓酥脆。 😋绵密与香脆层层交织，一口解锁甜酷反差！ 还在等什么，马上尝新~ <img src=\"https://cms-cdn.mcd.cn/img/short-content/5236ca16c841a90eadb0daf4758a2945.jpg\" alt=\"\" height=\"300\" width=\"auto\">",
+      "image": ""
+    },
+    {
+      "date": "2026-10-23",
+      "tag": "",
+      "title": "过家家派对上线，快来一起解锁梦想职业",
+      "body": "过家家派对就要开始啦! 萌娃cosplay梦想职业，精美职业服带回家 DIY 创意手工，想象力在指尖自由绽放 9月9日到店解锁过家家派对 粉红姐姐带你玩转麦当劳，开启童趣一天~ <img src=\"https://cms-cdn.mcd.cn/img/short-content/fd3efb9e2c3a89ba6aa8dfa4676aa333.jpg\" alt=\"\" height=\"300\" width=\"auto\">",
+      "image": ""
+    }
+  ],
+  "lottery": {
+    "name": "麦麦积分抽奖",
+    "status": "进行中",
+    "cost": 24.0,
+    "cost_text": "消耗积分抽奖",
+    "window": "2025-01-26 ~ 2030-12-31",
+    "prizes": [
+      {
+        "name": "下单立减3元券",
+        "type": "优惠券",
+        "image": "https://img.mcd.cn/gallery/ce3b2ebc8f729b18.png"
+      },
+      {
+        "name": "下单立减2元券",
+        "type": "优惠券",
+        "image": "https://img.mcd.cn/gallery/05e92c61916ad743.png"
+      },
+      {
+        "name": "下单立减1元券",
+        "type": "优惠券",
+        "image": "https://img.mcd.cn/gallery/0c99483d7c138087.png"
+      },
+      {
+        "name": "麦辣三件套5折券",
+        "type": "优惠券",
+        "image": "https://img.mcd.cn/gallery/e74fa061787ebe92.png"
+      },
+      {
+        "name": "板烧三件套5折券",
+        "type": "优惠券",
+        "image": "https://img.mcd.cn/gallery/e74fa061787ebe92.png"
+      },
+      {
+        "name": "双层鳕鱼三件套6折券",
+        "type": "优惠券",
+        "image": "https://img.mcd.cn/gallery/6a840cacdc3ba372.png"
+      },
+      {
+        "name": "甜辣小食组合5折券",
+        "type": "优惠券",
+        "image": "https://img.mcd.cn/gallery/e74fa061787ebe92.png"
+      },
+      {
+        "name": "小食四件套5.5折券",
+        "type": "优惠券",
+        "image": "https://img.mcd.cn/gallery/b0300a3c60adbb80.png"
+      },
+      {
+        "name": "麦旋风5折券",
+        "type": "优惠券",
+        "image": "https://img.mcd.cn/gallery/9c0a2a5cf2791217.png"
+      },
+      {
+        "name": "30积分",
+        "type": "积分奖",
+        "image": "https://img.mcd.cn/gallery/a09ad4c57399cd45.png"
+      }
+    ]
+  },
+  "mall": [
+    {
+      "name": "麦当劳亲子读书会",
+      "id": 1830,
+      "points": 0.0,
+      "price": 45.0,
+      "cat": "读书会",
+      "selling": "快来一起打造属于你们的亲子阅读时间",
+      "image": "https://img.mcd.cn/ecs/b1884e5085f549d7.png",
+      "status": "上架",
+      "window": "2023-03-29 ~ 2026-12-30"
+    },
+    {
+      "name": "麦当劳奇妙生日派对",
+      "id": 1779,
+      "points": 0.0,
+      "price": 50.0,
+      "cat": "生日类派对",
+      "selling": "上海迪士尼度假区米妮主题",
+      "image": "https://img.mcd.cn/ecs/c2e746f29662c40d.png",
+      "status": "上架",
+      "window": "2023-03-16 ~ 2027-12-31"
+    },
+    {
+      "name": "麦当劳一起开心鸭尊享版生日派对",
+      "id": 8516,
+      "points": 0.0,
+      "price": 138.0,
+      "cat": "生日类派对",
+      "selling": "［上海迪士尼唐老鸭主题］尊享版生日派对，小朋友们快来进入唐老鸭的奇妙世界，在麦当劳体验一场特别的生日派对，一起开心鸭！",
+      "image": "https://img.mcd.cn/ecs/572d282f03f9d757.png",
+      "status": "上架",
+      "window": "2024-10-31 ~ 2026-12-31"
+    },
+    {
+      "name": "迪士尼奇妙生日探索之旅",
+      "id": 1065,
+      "points": 0.0,
+      "price": 45.0,
+      "cat": "生日类派对",
+      "selling": "化身小小探险家，一起开启奇妙探索",
+      "image": "https://img.mcd.cn/ecs/378959377bfe483a.jpg",
+      "status": "上架",
+      "window": "2022-09-22 ~ 2026-12-31"
+    },
+    {
+      "name": "开心特工派对 之 深海探秘",
+      "id": 6971,
+      "points": 0.0,
+      "price": 198.0,
+      "cat": "主题类派对",
+      "selling": "全体集合 准备下潜 探索深海奥秘",
+      "image": "https://img.mcd.cn/ecs/ce7d0cd610277689.png",
+      "status": "上架",
+      "window": "2024-07-05 ~ 2026-12-31"
+    },
+    {
+      "name": "麦麦奇妙夜捣蛋派对尊享版",
+      "id": 13495,
+      "points": 0.0,
+      "price": 128.0,
+      "cat": "主题类派对",
+      "selling": "以“捣蛋”的童趣、调皮、欢乐为核心，打造创意热烈的儿童派对，还有多种互动体验和精美礼品",
+      "image": "https://img.mcd.cn/ecs/3725bd56a5d824ef.jpg",
+      "status": "上架",
+      "window": "2025-10-04 ~ 2028-10-04"
+    },
+    {
+      "name": "麦当劳过家家派对",
+      "id": 6370,
+      "points": 0.0,
+      "price": 55.0,
+      "cat": "主题类派对",
+      "selling": "有趣生动的麦当劳过家家派对，小朋友的第一场职人初体验，还有超多礼品周边，都在麦当劳等你哟！",
+      "image": "https://img.mcd.cn/ecs/0122856ca730724e.png",
+      "status": "上架",
+      "window": "2024-05-22 ~ 2027-05-22"
+    },
+    {
+      "name": "四小福永远好朋友派对常规版",
+      "id": 3089,
+      "points": 0.0,
+      "price": 58.0,
+      "cat": "主题类派对",
+      "selling": "唱歌跳舞、分享美食、做游戏、咔嚓合影！四小福和好朋友们一起创造独一无二的欢乐回忆！",
+      "image": "https://img.mcd.cn/ecs/275944c2eaae4525.jpg",
+      "status": "上架",
+      "window": "2023-09-27 ~ 2027-12-31"
+    },
+    {
+      "name": "麦当劳过家家派对尊享版",
+      "id": 11308,
+      "points": 0.0,
+      "price": 118.0,
+      "cat": "主题类派对",
+      "selling": "有趣生动的麦当劳过家家派对，小朋友的第一场职人初体验，还有超多礼品周边，都在麦当劳等你哟！",
+      "image": "https://img.mcd.cn/ecs/ff93ddcf7762e847.jpg",
+      "status": "上架",
+      "window": "2025-05-28 ~ 2027-12-31"
+    },
+    {
+      "name": "四小福永远好朋友派对豪华版",
+      "id": 3087,
+      "points": 0.0,
+      "price": 88.0,
+      "cat": "主题类派对",
+      "selling": "折纸手工、花车巡游唱歌跳舞、分享美食、做游戏、咔嚓合影！和四小福一起创造独一无二的好朋友回忆！",
+      "image": "https://img.mcd.cn/ecs/f2b4ec4dbaf03760.png",
+      "status": "上架",
+      "window": "2023-09-27 ~ 2027-12-31"
+    },
+    {
+      "name": "万马奔腾开心派对常规版",
+      "id": 15276,
+      "points": 0.0,
+      "price": 58.0,
+      "cat": "主题类派对",
+      "selling": "以“友谊魔法”为核心的故事内核，具有跨越文化和年龄的普世性能够与消费者建立深厚的情感共鸣。打造跨世代社群。",
+      "image": "https://img.mcd.cn/ecs/ad559dc807124409.jpg",
+      "status": "上架",
+      "window": "2026-02-04 ~ 2027-06-30"
+    },
+    {
+      "name": "麦当劳海底小纵队欢乐派对（常规版）",
+      "id": 17356,
+      "points": 0.0,
+      "price": 58.0,
+      "cat": "主题类派对",
+      "selling": "以“海洋保护”为核心的故事内核，具有跨越文化和年龄的普世性能够与消费者建立深厚的价值共鸣和环保意识。",
+      "image": "https://img.mcd.cn/ecs/2270b522c9414ae7.jpg",
+      "status": "上架",
+      "window": "2026-07-21 ~ 2027-07-15"
+    },
+    {
+      "name": "麦当劳趣读派对2025",
+      "id": 10675,
+      "points": 0.0,
+      "price": 45.0,
+      "cat": "主题类派对",
+      "selling": "麦当劳趣读派对更新啦！让小朋友在派对里找到阅读的无限乐趣！",
+      "image": "https://img.mcd.cn/ecs/263084c4a94e4c08.jpg",
+      "status": "上架",
+      "window": "2025-04-23 ~ 2027-12-31"
+    },
+    {
+      "name": "麦当劳狂欢生日派对 迪士尼疯狂动物城主题（尊享版）",
+      "id": 5247,
+      "points": 0.0,
+      "price": 98.0,
+      "cat": "生日类派对",
+      "selling": "\"欢迎小朋友们变身喜爱的动物角色，尽情狂欢，为寿星庆生，体验独一无二的迪士尼疯狂动物城主题的 麦当劳生日派对\"",
+      "image": "https://img.mcd.cn/ecs/8531de33ea5be685.jpg",
+      "status": "上架",
+      "window": "2024-03-28 ~ 2026-12-31"
+    },
+    {
+      "name": "麦当劳狂欢生日派对 迪士尼疯狂动物城主题",
+      "id": 5224,
+      "points": 0.0,
+      "price": 58.0,
+      "cat": "生日类派对",
+      "selling": "欢迎小朋友们变身喜爱的动物角色，尽情狂欢，为寿星庆生，体验独一无二的迪士尼疯狂动物城主题的麦当劳生日派对",
+      "image": "https://img.mcd.cn/ecs/feb9130d2d541617.jpg",
+      "status": "上架",
+      "window": "2026-03-03 ~ 2026-12-31"
+    },
+    {
+      "name": "麦当劳一起开心鸭生日派对",
+      "id": 8084,
+      "points": 0.0,
+      "price": 50.0,
+      "cat": "生日类派对",
+      "selling": "［上海迪士尼唐老鸭主题］生日派对，小朋友们快来进入唐老鸭的奇妙世界，在麦当劳体验一场特别的生日派对，一起开心鸭！",
+      "image": "https://img.mcd.cn/ecs/0011dc7b40deacce.jpg",
+      "status": "上架",
+      "window": "2024-09-27 ~ 2026-12-31"
+    },
+    {
+      "name": "一年一度品虾会",
+      "id": 15146,
+      "points": 0.0,
+      "price": 25.9,
+      "cat": "品鉴会",
+      "selling": "开年抢鲜虾，三款新年限定一次尝遍。专享新春特惠价，领“鲜”开启红火年！ ",
+      "image": "https://img.mcd.cn/ecs/854b7e42284ba2a0.jpg",
+      "status": "上架",
+      "window": "2026-01-23 ~ 2026-01-26"
+    },
+    {
+      "name": "金拱门板记尝新会",
+      "id": 16133,
+      "points": 0.0,
+      "price": 29.9,
+      "cat": "品鉴会",
+      "selling": "嘿凤梨来，金拱门板记尝新会。芝士嘿凤梨板烧鸡腿堡，等你来尝新！",
+      "image": "https://img.mcd.cn/ecs/780ebf8ec679f08b.jpg",
+      "status": "上架",
+      "window": "2026-04-15 ~ 2026-04-20"
+    },
+    {
+      "name": "麦麦奇妙夜捣蛋派对常规版",
+      "id": 13496,
+      "points": 0.0,
+      "price": 58.0,
+      "cat": "主题类派对",
+      "selling": "以“捣蛋”的童趣、调皮、欢乐为核心，打造创意热烈的儿童派对，还有多种互动体验和精美礼品",
+      "image": "https://img.mcd.cn/ecs/f6b8c62a88821d10.jpg",
+      "status": "上架",
+      "window": "2025-10-04 ~ 2028-10-04"
+    },
+    {
+      "name": "万马奔腾开心派对尊享版",
+      "id": 15279,
+      "points": 0.0,
+      "price": 138.0,
+      "cat": "主题类派对",
+      "selling": "以“友谊魔法”为核心的故事内核，具有跨越文化和年龄的普世性能够与消费者建立深厚的情感共鸣。打造跨世代社群。",
+      "image": "https://img.mcd.cn/ecs/f459c95189976b94.jpg",
+      "status": "上架",
+      "window": "2026-02-04 ~ 2027-06-30"
+    },
+    {
+      "name": "麦当劳海底小纵队欢乐派对（尊享版）",
+      "id": 17357,
+      "points": 0.0,
+      "price": 88.0,
+      "cat": "主题类派对",
+      "selling": "以“海洋保护”为核心的故事内核，具有跨越文化和年龄的普世性能够与消费者建立深厚的价值共鸣和环保意识。",
+      "image": "https://img.mcd.cn/ecs/4a5362ac61da4ba9.jpg",
+      "status": "上架",
+      "window": "2026-07-21 ~ 2027-07-15"
+    },
+    {
+      "name": "麦当劳趣读派对",
+      "id": 5643,
+      "points": 0.0,
+      "price": 45.0,
+      "cat": "主题类派对",
+      "selling": "欢迎小朋友与家长踏上90分钟生动精彩的阅读之旅，解锁开心的亲子时光，探索鲜活有趣的故事，一同体验绘声绘色的阅读乐趣！",
+      "image": "https://img.mcd.cn/ecs/bdedcfb69e6524cd.jpg",
+      "status": "上架",
+      "window": "2024-04-23 ~ 2027-04-23"
+    },
+    {
+      "name": "麦咖啡™奶铁品鉴会",
+      "id": 1670,
+      "points": 0.0,
+      "price": 25.0,
+      "cat": "品鉴会",
+      "selling": "品尝咖啡，享专属服务",
+      "image": "https://img.mcd.cn/ecs/a844876638b87ea2.jpg",
+      "status": "上架",
+      "window": "2023-02-21 ~ 2026-12-31"
+    },
+    {
+      "name": "小小牙医体验营",
+      "id": 16158,
+      "points": 0.0,
+      "price": 72.0,
+      "cat": "品鉴会",
+      "selling": "变身小小牙医，体验职场趣味游戏，寓教于乐，尽享快乐时光！",
+      "image": "https://img.mcd.cn/ecs/0fd5923125974760.jpg",
+      "status": "上架",
+      "window": "2026-04-15 ~ 2026-12-31"
+    },
+    {
+      "name": "职业体验营",
+      "id": 12897,
+      "points": 0.0,
+      "price": 72.0,
+      "cat": "品鉴会",
+      "selling": "变身职业达人，体验职场趣味游戏，寓教于乐，尽享快乐时光！",
+      "image": "https://img.mcd.cn/ecs/6a246c0a834937c5.jpg",
+      "status": "上架",
+      "window": "2025-09-01 ~ 2026-12-31"
+    },
+    {
+      "name": "消防体验营",
+      "id": 12907,
+      "points": 0.0,
+      "price": 72.0,
+      "cat": "品鉴会",
+      "selling": "变身消防员，体验消防设备，寓教于乐，尽享快乐时光！",
+      "image": "https://img.mcd.cn/ecs/d8163e938b851eeb.jpg",
+      "status": "上架",
+      "window": "2025-09-01 ~ 2026-12-31"
+    },
+    {
+      "name": "为随心配五大巨星“应援”1积分兑换活动",
+      "id": 14931,
+      "points": 1.0,
+      "price": 0.0,
+      "cat": "到店专用",
+      "selling": "为随心配五大巨星“应援”！“鱼酷玉咖牛”，只要13.9起～",
+      "image": "https://img.mcd.cn/ecs/4e708872b8603c91.jpg",
+      "status": "上架",
+      "window": "2026-01-09 ~ 2026-01-10"
+    },
+    {
+      "name": "18.8元2份麦辣鸡翅",
+      "id": 6113,
+      "points": 200.0,
+      "price": 0.0,
+      "cat": "到店专用",
+      "selling": "18.8元2份麦辣鸡翅",
+      "image": "https://img.mcd.cn/ecs/1d1e9623aa2604ac.png",
+      "status": "上架",
+      "window": "2024-12-31 ~ 2026-03-21"
+    },
+    {
+      "name": "10.9元指定小食任选",
+      "id": 17077,
+      "points": 200.0,
+      "price": 0.0,
+      "cat": "到店专用",
+      "selling": "10.9元指定小食任选1份",
+      "image": "https://img.mcd.cn/ecs/72a21fa0f800c4d7.jpg",
+      "status": "上架",
+      "window": "2026-06-25 ~ 2026-12-30"
+    },
+    {
+      "name": "16.9元麦辣可乐组合",
+      "id": 17079,
+      "points": 500.0,
+      "price": 0.0,
+      "cat": "到店专用",
+      "selling": "16.9元麦辣可乐组合",
+      "image": "https://img.mcd.cn/ecs/20c9867018af833a.jpg",
+      "status": "上架",
+      "window": "2026-06-25 ~ 2026-12-30"
+    },
+    {
+      "name": "21.9元巨无霸可乐组合",
+      "id": 17081,
+      "points": 800.0,
+      "price": 0.0,
+      "cat": "到店专用",
+      "selling": "21.9元巨无霸可乐组合",
+      "image": "https://img.mcd.cn/ecs/bd4382429dc7c39c.jpg",
+      "status": "上架",
+      "window": "2026-06-25 ~ 2026-12-30"
+    },
+    {
+      "name": "18.8元板烧鸡腿堡两件套",
+      "id": 6111,
+      "points": 100.0,
+      "price": 0.0,
+      "cat": "到店专用",
+      "selling": "18.8元板烧鸡腿堡两件套",
+      "image": "https://img.mcd.cn/ecs/fc0f224cfbc0e738.png",
+      "status": "上架",
+      "window": "2024-12-31 ~ 2026-03-21"
+    },
+    {
+      "name": "22.8元2份麦辣鸡腿堡",
+      "id": 6115,
+      "points": 500.0,
+      "price": 0.0,
+      "cat": "到店专用",
+      "selling": "22.8元2份麦辣鸡腿堡",
+      "image": "https://img.mcd.cn/ecs/4bc13cf4af30f753.png",
+      "status": "上架",
+      "window": "2024-12-31 ~ 2026-03-21"
+    },
+    {
+      "name": "5.9元香芋派/菠萝派任选",
+      "id": 15866,
+      "points": 50.0,
+      "price": 0.0,
+      "cat": "到店专用",
+      "selling": "5.9元香芋派/菠萝派任选1份",
+      "image": "https://img.mcd.cn/ecs/b2c98e893600e58c.png",
+      "status": "上架",
+      "window": "2026-03-22 ~ 2026-06-24"
+    },
+    {
+      "name": "28.9元板烧四件套",
+      "id": 16052,
+      "points": 800.0,
+      "price": 0.0,
+      "cat": "到店专用",
+      "selling": "28.9元板烧四件套",
+      "image": "https://img.mcd.cn/ecs/38588effdbf01f2a.png",
+      "status": "上架",
+      "window": "2026-04-01 ~ 2026-06-24"
+    },
+    {
+      "name": "22.9元2份板烧鸡腿堡",
+      "id": 16054,
+      "points": 500.0,
+      "price": 0.0,
+      "cat": "到店专用",
+      "selling": "22.9元2份板烧鸡腿堡",
+      "image": "https://img.mcd.cn/ecs/eafe418b3ef14f18.png",
+      "status": "上架",
+      "window": "2026-03-31 ~ 2026-06-24"
+    },
+    {
+      "name": "22.9元2份麦辣鸡腿堡",
+      "id": 16055,
+      "points": 500.0,
+      "price": 0.0,
+      "cat": "到店专用",
+      "selling": "22.9元2份麦辣鸡腿堡",
+      "image": "https://img.mcd.cn/ecs/283899b2d2548c51.png",
+      "status": "上架",
+      "window": "2026-03-31 ~ 2026-06-24"
+    },
+    {
+      "name": "16.9元中薯麦乐鸡组合",
+      "id": 16056,
+      "points": 200.0,
+      "price": 0.0,
+      "cat": "到店专用",
+      "selling": "16.9元中薯麦乐鸡组合1份",
+      "image": "https://img.mcd.cn/ecs/484b5a8738046e0d.png",
+      "status": "上架",
+      "window": "2026-04-01 ~ 2026-06-24"
+    },
+    {
+      "name": "罗技键鼠套装",
+      "id": 17694,
+      "points": 6666.0,
+      "price": 0.0,
+      "cat": "玩具",
+      "selling": "积分兑大礼，罗技键鼠套装6666积分兑换！8月17日-8月21日，每日限量 5 份，先到先得",
+      "image": "https://img.mcd.cn/ecs/b1830d7dc1ea9a89.jpg",
+      "status": "上架",
+      "window": "2026-08-21 ~ 2026-08-21"
+    },
+    {
+      "name": "6.9元可乐麦炫酷",
+      "id": 17073,
+      "points": 50.0,
+      "price": 0.0,
+      "cat": "到店专用",
+      "selling": "6.9元可乐麦炫酷1份",
+      "image": "https://img.mcd.cn/ecs/affec854b9474fa2.jpg",
+      "status": "上架",
+      "window": "2026-06-25 ~ 2026-12-30"
+    },
+    {
+      "name": "6.9元香芋派/菠萝派任选",
+      "id": 17074,
+      "points": 50.0,
+      "price": 0.0,
+      "cat": "到店专用",
+      "selling": "6.9元香芋派/菠萝派任选1份",
+      "image": "https://img.mcd.cn/ecs/c8e3a03b35f73ede.jpg",
+      "status": "上架",
+      "window": "2026-06-25 ~ 2026-12-30"
+    },
+    {
+      "name": "10.9元指定小食任选",
+      "id": 17076,
+      "points": 100.0,
+      "price": 0.0,
+      "cat": "到店专用",
+      "selling": "10.9元指定小食任选1份",
+      "image": "https://img.mcd.cn/ecs/acd57835928c0f6f.jpg",
+      "status": "上架",
+      "window": "2026-06-25 ~ 2026-12-30"
+    },
+    {
+      "name": "17.9元板烧可乐组合",
+      "id": 17080,
+      "points": 500.0,
+      "price": 0.0,
+      "cat": "到店专用",
+      "selling": "17.9元板烧可乐组合",
+      "image": "https://img.mcd.cn/ecs/08b655d1f4d3d639.jpg",
+      "status": "上架",
+      "window": "2026-06-25 ~ 2026-12-30"
+    },
+    {
+      "name": "28.8元巨无霸四件套",
+      "id": 5246,
+      "points": 800.0,
+      "price": 0.0,
+      "cat": "到店专用",
+      "selling": "28.8元巨无霸四件套",
+      "image": "https://img.mcd.cn/ecs/fb8a906a54760b7e.png",
+      "status": "上架",
+      "window": "2024-03-26 ~ 2026-03-21"
+    },
+    {
+      "name": "18.8元麦辣鸡腿汉堡两件套",
+      "id": 6110,
+      "points": 50.0,
+      "price": 0.0,
+      "cat": "到店专用",
+      "selling": "18.8元麦辣鸡腿汉堡两件套",
+      "image": "https://img.mcd.cn/ecs/477df186636af02f.png",
+      "status": "上架",
+      "window": "2024-12-31 ~ 2026-03-21"
+    },
+    {
+      "name": "18.8元指定小食任选2份",
+      "id": 6112,
+      "points": 100.0,
+      "price": 0.0,
+      "cat": "到店专用",
+      "selling": "18.8元指定小食任选2份",
+      "image": "https://img.mcd.cn/ecs/86254715d7505524.png",
+      "status": "上架",
+      "window": "2024-12-31 ~ 2026-03-21"
+    },
+    {
+      "name": "麦麦脆汁鸡两件套",
+      "id": 6114,
+      "points": 200.0,
+      "price": 0.0,
+      "cat": "到店专用",
+      "selling": "麦麦脆汁鸡两件套",
+      "image": "https://img.mcd.cn/ecs/5ae9f33808bc62a6.png",
+      "status": "上架",
+      "window": "2024-12-31 ~ 2026-03-21"
+    },
+    {
+      "name": "24.8元2份板烧鸡腿堡",
+      "id": 6116,
+      "points": 500.0,
+      "price": 0.0,
+      "cat": "到店专用",
+      "selling": "24.8元2份板烧鸡腿堡",
+      "image": "https://img.mcd.cn/ecs/88c68b4ee71245cb.png",
+      "status": "上架",
+      "window": "2024-12-31 ~ 2026-03-21"
+    },
+    {
+      "name": "Nike Book 2 麦当劳特别联名款",
+      "id": 16800,
+      "points": 8888.0,
+      "price": 0.0,
+      "cat": "鞋袜",
+      "selling": "独一无二，梦幻联动，Nike Book 2 麦当劳特别联名款 每人限购一双，每日 14:00 准时开抢",
+      "image": "https://img.mcd.cn/ecs/3d4d37c8feb04aab.jpg",
+      "status": "上架",
+      "window": "2026-06-05 ~ 2026-06-05"
+    },
+    {
+      "name": "9.9元指定小食任选",
+      "id": 15867,
+      "points": 100.0,
+      "price": 0.0,
+      "cat": "到店专用",
+      "selling": "9.9元指定小食任选1份 ",
+      "image": "https://img.mcd.cn/ecs/91b5dd144893df95.png",
+      "status": "上架",
+      "window": "2026-03-22 ~ 2026-06-24"
+    }
+  ],
+  "coupons": [
+    {
+      "title": "麦旋风任选",
+      "status": "可领取 \\",
+      "image": "https://img.mcd.cn/cms/images/b4753dc54f708435.png"
+    },
+    {
+      "title": "巧克力味厚松饼猪柳蛋套餐",
+      "status": "可领取 \\",
+      "image": "https://img.mcd.cn/cms/images/6e3477060dd7cd10.png"
+    },
+    {
+      "title": "薯薯任选",
+      "status": "可领取 \\",
+      "image": "https://mcd-portal-prod-cos1-1300270282.cos.ap-shanghai.myqcloud.com/campaign/prod/campaign-offer/coupon/2282ae7f4af441d0a81bd31bccfb1726/%E8%96%AF%E8%96%AF%E4%BB%BB%E9%80%89600x600.png?sign=q-sign-algorithm%3Dsha1%26q-ak%3DAKIDCD6mEcX25tVrjNxiPvEICas0uXyBKIBs%26q-sign-time%3D1790048410%3B1947728410%26q-key-time%3D1790048410%3B1947728410%26q-header-list%3D%26q-url-param-list%3D%26q-signature%3Dee1941039519538ab375b58d97b68373872efa5f"
+    },
+    {
+      "title": "免费脆薯饼",
+      "status": "可领取 \\",
+      "image": "https://mcd-portal-prod-cos1-1300270282.cos.ap-shanghai.myqcloud.com/campaign/prod/campaign-offer/coupon/0295cb54d2e24f4daba91b7b7a5a3dd5/%E5%85%8D%E8%B4%B9%E8%84%86%E8%96%AF%E9%A5%BC600.png?sign=q-sign-algorithm%3Dsha1%26q-ak%3DAKIDCD6mEcX25tVrjNxiPvEICas0uXyBKIBs%26q-sign-time%3D1774608147%3B1932288147%26q-key-time%3D1774608147%3B1932288147%26q-header-list%3D%26q-url-param-list%3D%26q-signature%3D9df7ad8f672007cbe5b0c268a401e446ada64902"
+    },
+    {
+      "title": "人气麦旋风买一送一",
+      "status": "可领取 \\",
+      "image": "https://mcd-portal-prod-cos1-1300270282.cos.ap-shanghai.myqcloud.com/campaign/prod/campaign-offer/coupon/06da6d644ddb4e6282bba9893f5afe0d/600x600.png?sign=q-sign-algorithm%3Dsha1%26q-ak%3DAKIDCD6mEcX25tVrjNxiPvEICas0uXyBKIBs%26q-sign-time%3D1790568983%3B1948248983%26q-key-time%3D1790568983%3B1948248983%26q-header-list%3D%26q-url-param-list%3D%26q-signature%3D5a1d410a1bc55056a1021e94cbeebc2c6920472f"
+    },
+    {
+      "title": "9.9元中杯冰美式",
+      "status": "可领取 \\",
+      "image": "https://mcd-portal-prod-cos1-1300270282.cos.ap-shanghai.myqcloud.com/campaign/prod/campaign-offer/coupon/66a5597fe23246e698d9d63be003a951/9.9%E5%86%B0%E7%BE%8E%E5%BC%8F%E5%88%B8%E5%9B%BE600X600_compressed.png?sign=q-sign-algorithm%3Dsha1%26q-ak%3DAKIDCD6mEcX25tVrjNxiPvEICas0uXyBKIBs%26q-sign-time%3D1752487443%3B1910167443%26q-key-time%3D1752487443%3B1910167443%26q-header-list%3D%26q-url-param-list%3D%26q-signature%3Dbb50244da928a73c75aa906a93bdb2264ebace1d"
+    }
+  ]
+}
