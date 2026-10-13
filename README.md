@@ -32,7 +32,7 @@ can be demoed in a browser without a physical device.
    voice ──▶│  Alexa+  (MCP client)      │   (simulated by simulator/ in this repo)
             │  routes intent → tool call │
             └──────────────┬─────────────┘
-                           │  Streamable HTTP  (MCP, spec 2025-03-26+)
+                           │  Streamable HTTP  (MCP transport; protocol 2025-03-26)
                            ▼
             ┌────────────────────────────┐
             │  server.py  (this repo)     │   FastMCP, self-hosted
@@ -117,7 +117,9 @@ asyncio.run(main())
 
 - **Transport:** Streamable HTTP — the transport Alexa+ requires. The endpoint
   is `/mcp` (the server issues a `307` to the canonical `/mcp/`; standard HTTP
-  clients follow it automatically).
+  clients follow it automatically). The server negotiates MCP protocol
+  **2025-03-26** (the latest stable in the official SDK); the Streamable HTTP
+  *transport* — the actual Alexa+ requirement — is fully implemented.
 - **No device needed:** Amazon's own docs note you can build a *simulated*
   Alexa+ experience in a web app. `simulator/` is that simulation.
 - **Deploy:** wrap `server.py` behind a public HTTPS endpoint (e.g. a container
